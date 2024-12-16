@@ -14,7 +14,6 @@ import {
    CloudPartly,
 } from '../../assets/icons'
 
-
 const icons = {
    celsius: Celsius,
    fahrenheit: Fahrenheit,
