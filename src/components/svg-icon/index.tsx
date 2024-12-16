@@ -12,9 +12,11 @@ import {
    CloudWindy,
    CloudSunSWind,
    CloudPartly,
+   Moon,
 } from '../../assets/icons'
 
 const icons = {
+   moon: Moon,
    celsius: Celsius,
    fahrenheit: Fahrenheit,
    cloudy: Cloud,

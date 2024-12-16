@@ -1,9 +1,7 @@
-import { FC } from 'react';
+import { FC } from 'react'
 
 const Home: FC = () => {
-   return (
-      <></>
-   )
+   return <>I am home</>
 }
 
 export default Home

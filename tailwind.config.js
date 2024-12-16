@@ -1,8 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [
-    "./src/**/*.{ts,tsx}",
-  ],
+   darkMode: 'selector',
+   content: ['./src/**/*.{ts,tsx}'],
    theme: {
       // screens: {
       //    sm: '480px',
