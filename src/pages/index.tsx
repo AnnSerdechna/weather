@@ -20,10 +20,6 @@ const router = createBrowserRouter([
                </Suspense>
             ),
          },
-         {
-            path: '/about',
-            element: <h2>About</h2>,
-         },
       ],
    },
    {
